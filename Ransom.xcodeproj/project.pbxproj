@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		48C655E21ACCCF9200FD5117 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C655E11ACCCF9200FD5117 /* main.swift */; };
+		48C655E91ACCCFB500FD5117 /* Ransom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C655E81ACCCFB500FD5117 /* Ransom.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		48C655DE1ACCCF9200FD5117 /* Ransom */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Ransom; sourceTree = BUILT_PRODUCTS_DIR; };
 		48C655E11ACCCF9200FD5117 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		48C655E81ACCCFB500FD5117 /* Ransom.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ransom.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,7 @@
 		48C655D51ACCCF9200FD5117 = {
 			isa = PBXGroup;
 			children = (
+				48C655E81ACCCFB500FD5117 /* Ransom.swift */,
 				48C655E01ACCCF9200FD5117 /* Ransom */,
 				48C655DF1ACCCF9200FD5117 /* Products */,
 			);
@@ -119,6 +122,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				48C655E21ACCCF9200FD5117 /* main.swift in Sources */,
+				48C655E91ACCCFB500FD5117 /* Ransom.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

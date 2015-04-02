@@ -8,5 +8,10 @@
 
 import Foundation
 
-println("Hello, World!")
+println("Test")
+
+var testRansom : Ransom = Ransom()
+
+var result : Bool = testRansom.canRansom("test he", magazine: "test")
+println(result)
 
